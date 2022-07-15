@@ -13,6 +13,7 @@ public class ComparatorDemo {
 		treeSet.add(15);
 		treeSet.add(5);
 		treeSet.add(20);
+		treeSet.add(17);
 		System.out.println(treeSet);
 	}
 }
