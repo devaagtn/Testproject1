@@ -17,6 +17,9 @@ public class Collections {
 	      list.add("Apple");    
 	      list.add("Banana");    
 	      list.add("Grapes");  
+	      list.add("gouva");  
+	      list.add("berika");  
+	      
 	      //Printing the arraylist object   
 	      System.out.println(list);  
 	      System.out.println("**************"); 
